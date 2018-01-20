@@ -1,7 +1,4 @@
 #!/bin/bash
-#script pour mettre a jour toutes les installs
-#besoin d'utiliser compte root ou nightboy ou sudo ? -> pas forcement mais necessaire pour /var/run/soft/soft.pid sinon peux pas lancer
-#https://www.htpcbeginner.com/couchpotato-auto-update-to-new-release/
 
 #variables
 DATE=$(date +"%Y-%m-%d_%Hh%M")
